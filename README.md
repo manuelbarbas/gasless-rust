@@ -53,7 +53,7 @@ cargo --version
 cd skale-gasless/
 ``` 
 
-3. Compile the repo to import the project dependicies: 
+3. Compile the repo to import the project dependencies: 
 ```sh
 cargo build --release
 ```
